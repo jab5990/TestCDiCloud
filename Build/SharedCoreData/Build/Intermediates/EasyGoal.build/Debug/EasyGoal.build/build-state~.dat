@@ -1,0 +1,398 @@
+TEasyGoal
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCpResource en.lproj/Credits.rtf /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib
+cCpResource ../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite
+cCpResource ../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqlite
+cDataModelCompile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/DataModel.mom /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel
+cProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.pth Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreData normal x86_64
+cProcessProductPackaging "/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile" /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile
+cProcessProductPackaging "/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile" /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile
+cTouch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+cProcessProductPackaging /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/SharedCoreData.entitlements /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent
+cCodeSign /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000004FF015DA00000000000000AA
+t1341134298
+s170
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000501BFBF600000000000001E5
+t1344011254
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050276F4C0000000000006730
+t1344761676
+s26416
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/SharedCoreData.LinkFileList
+c00000000502A5F8B0000000000000327
+t1344954251
+s807
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.pth
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Info.plist
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreData
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/DataModel.mom
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqlite
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m
+c000000004FD7DC380000000000008593
+t1339546680
+s34195
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel
+c000000004FD7DC380000000000000088
+t1339546680
+s136
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m
+c000000004FD7DC3800000000000013DA
+t1339546680
+s5082
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m
+c000000004FD7DC3800000000000013AA
+t1339546680
+s5034
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/localStore.sqlite
+c000000004FD642380000000000007000
+t1339441720
+s28672
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/seedStore.sqlite
+c000000004FD642380000000000063000
+t1339441720
+s405504
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m
+c000000004FD7DC380000000000002696
+t1339546680
+s9878
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Prefix.pch
+c000000004FD642380000000000000033
+t1339441720
+s51
+i<Cocoa/Cocoa.h>
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/SharedCoreData.entitlements
+c00000000502A5DDD0000000000000183
+t1344953821
+s387
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/Credits.rtf
+c000000004FD642380000000000000149
+t1339441720
+s329
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/InfoPlist.strings
+c000000004FD6423800000000000000A4
+t1339441720
+s164
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib
+c000000004FD64F970000000000016DD4
+t1339445143
+s93652
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m
+c000000004FD7DC3800000000000013B1
+t1339546680
+s5041
+
+N/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile
+c00000000502A5F1A0000000000001DB0
+t1344954138
+s7600
+
+NInfo.plist
+c00000000502A5D6200000000000003D7
+t1344953698
+s983
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6a138f0b97dab541^3082a20b97dab541^---0#1#0#--18"Check dependencies36"88545AE8-5ECE-4F92-BF32-0A0AA3C7218E-
+
+CCodeSign /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+s366647053.141268
+e366647053.317903
+r1
+xCodeSign
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CodeSign /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.appc443240d97dab541^bf62510d97dab541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/0000000000000000^684"CodeSign /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv CODESIGN_ALLOCATE /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    /usr/bin/codesign --force --sign 0af60a7f3cbdda2a6ea90e6381d5579a5b24831b --entitlements /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app36"59AC4FEB-774E-43E6-8620-5796F216DCF4-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647052.887776
+e366647052.995085
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m5d86e30c97dab541^01bffe0c97dab541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m0000000000000000^3210"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.o Classes/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv LANG en_US.US-ASCII    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources/x86_64 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Classes/AppDelegate.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/AppDelegate.o36"336F2884-7523-4B32-B401-D645E7CF82A7-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647052.887748
+e366647053.022360
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.ma88ce30c97dab541^fab9050d97dab541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m0000000000000000^3256"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.o ../Shared/CoreDataController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv LANG en_US.US-ASCII    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources/x86_64 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/CoreDataController.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/CoreDataController.o36"89671A5B-1215-40EC-A3AB-6541C2808637-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647052.887762
+e366647052.942425
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m158be30c97dab541^9142f10c97dab541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m0000000000000000^3184"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.o ../Shared/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv LANG en_US.US-ASCII    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources/x86_64 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/Person.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/Person.o36"A3CFBC70-458A-4D43-9CDF-A2D857C98323-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647052.933121
+e366647052.977800
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m7d07ef0c97dab541^4c51fa0c97dab541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m0000000000000000^3226"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.o ../Shared/StateLocation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv LANG en_US.US-ASCII    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources/x86_64 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/StateLocation.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/StateLocation.o36"D41ECA0C-6237-46BE-A9D0-88B6010D00DF-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647052.887770
+e366647052.931747
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.mb589e30c97dab541^a087ee0c97dab541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m0000000000000000^3152"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv LANG en_US.US-ASCII    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources/x86_64 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/main.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/main.o36"C58BE397-5EED-4831-897F-CAEAE2283061-
+
+CCompileXIB /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib
+s366647051.653997
+e366647051.738401
+r1
+xCompileXIB
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compiling /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib6398a70b97dab541^f10dbd0b97dab541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib0000000000000000^700"CompileXIB en.lproj/MainMenu.xib    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode45-DP4.app/Contents/Developer/usr/bin/..    /Applications/Xcode45-DP4.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/MainMenu.nib /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/MainMenu.xib --sdk /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"F1413CBB-F246-43F2-BC82-C2128D85371D-
+
+CCopyStringsFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s366647051.653495
+e366647051.657285
+r1
+xCopyStringsFile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Copy en.lproj/InfoPlist.stringse885a70b97dab541^8945a80b97dab541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/InfoPlist.strings0000000000000000^532"CopyStringsFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj -- en.lproj/InfoPlist.strings36"72A5D222-21D4-4F53-AB19-30F1D6B70C72-
+
+CCpResource ../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite
+s366647051.654598
+e366647051.661632
+r1
+xCpResource
+x../Shared/localStore.sqlite
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Copy /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite9ab6a70b97dab541^a660a90b97dab541^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite000000000080d041^598"CpResource ../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/localStore.sqlite    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources36"D8384923-8010-42AB-91BC-AAFB70165B12-
+
+CCpResource ../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqlite
+s366647051.658565
+e366647051.662508
+r1
+xCpResource
+x../Shared/seedStore.sqlite
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqlite
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Copy /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqliteabb1a80b97dab541^bb99a90b97dab541^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqlite000000000080d041^595"CpResource ../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/seedStore.sqlite    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources36"B43F944E-566D-4A14-9721-48A6103987A5-
+
+CCpResource en.lproj/Credits.rtf /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtf
+s366647051.653567
+e366647051.658279
+r1
+xCpResource
+xen.lproj/Credits.rtf
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Copy /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtfa88ca70b97dab541^e086a80b97dab541^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^596"CpResource en.lproj/Credits.rtf /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/en.lproj/Credits.rtf /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/en.lproj36"1F43BF43-1820-4775-9B0C-425B1DB56BF3-
+
+CDataModelCompile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/DataModel.mom /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel
+s366647051.746238
+e366647051.884763
+r1
+xDataModelCompile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/DataModel.mom
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel041fbf0b97dab541^d080e20b97dab541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel/0000000000000000^750"DataModelCompile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/DataModel.mom ../Shared/DataModel.xcdatamodel    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    /Applications/Xcode45-DP4.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -MOMC_PLATFORMS macosx -XD_MOMC_TARGET_VERSION=10.8 /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/../Shared/DataModel.xcdatamodel /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Resources/DataModel.mom36"77B2CB35-6510-4F32-B255-11CD580908A5-
+
+CLd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreData normal x86_64
+s366647053.029531
+e366647053.072094
+r1
+xLd
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreData
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreDatac9af070d97dab541^4b78120d97dab541^---0#0#0#--1093"Ld /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreData normal x86_64    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug -filelist /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/Objects-normal/x86_64/SharedCoreData.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/MacOS/SharedCoreData36"1C839D17-7C42-44BD-8657-F795341DC044-
+
+CProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Info.plist Info.plist
+s366647051.641191
+e366647051.645173
+r1
+xProcessInfoPlistFile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist2d43a40b97dab541^6729a50b97dab541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Info.plist0000000000000000^587"ProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Info.plist Info.plist    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-infoPlistUtility Info.plist -genpkginfo /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/Info.plist36"A1C4A03C-ABF2-4FF7-8E2C-FDFD9B5C8336-
+
+CProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.pth Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647051.746244
+e366647052.880597
+r1
+xProcessPCH
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.pth
+xPrefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection21"Precompile Prefix.pchbf2abf0b97dab541^df6ee10c97dab541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Prefix.pch0000000000000000^3020"ProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.pth Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    setenv LANG en_US.US-ASCII    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources/x86_64 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Prefix.pch -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.pth -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-alxsefdlmntblxbvkpmrgwyapajk/Prefix.pch.d36"9A9F139F-495A-4926-A1ED-8FC9BC6BFA2F-
+
+CProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Index/PrecompiledHeaders/Prefix-fikmhzxdqkboxteryofkylypibzq_ast/Prefix.pch.pth Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile" /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile
+s366647053.091192
+e366647053.100665
+r1
+xProcessProductPackaging
+x/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection282"ProcessProductPackaging "/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile" /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile2f6a170d97dab541^61c1190d97dab541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile0000000000000000^656"ProcessProductPackaging "/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile" /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-productPackagingUtility "/Users/barroso/Library/MobileDevice/Provisioning Profiles/1E9AD429-D715-4272-846D-6EA2F7065313.provisionprofile" -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app/Contents/embedded.provisionprofile36"FB6B736F-C648-4410-8042-E32DA34D36CA-
+
+CProcessProductPackaging /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/SharedCoreData.entitlements /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent
+s366647053.129358
+e366647053.132683
+r1
+xProcessProductPackaging
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/SharedCoreData.entitlements
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection198"ProcessProductPackaging SharedCoreData.entitlements /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent8e3b210d97dab541^40f7210d97dab541^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent000000000080d041^582"ProcessProductPackaging SharedCoreData.entitlements /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    builtin-productPackagingUtility /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/SharedCoreData.entitlements -entitlements -format xml -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal.build/Debug/EasyGoal.build/SharedCoreData.xcent36"1FA155BD-7D3C-4004-AC3B-516BF100EFAA-
+
+CTouch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+s366647053.114472
+e366647053.120710
+r1
+xTouch
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app5c5a1d0d97dab541^79e91e0d97dab541^---0#0#0#--323"Touch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX    /usr/bin/touch -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/SharedCoreData.app36"EC7A6652-9302-4C25-B125-6164B62F2439-
+

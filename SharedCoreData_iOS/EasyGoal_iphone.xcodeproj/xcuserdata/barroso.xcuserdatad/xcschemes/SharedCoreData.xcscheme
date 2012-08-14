@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
                BuildableName = "SharedCoreData.app"
-               BlueprintName = "SharedCoreData"
-               ReferencedContainer = "container:SharedCoreData_iOS.xcodeproj">
+               BlueprintName = "EasyGoal"
+               ReferencedContainer = "container:EasyGoal_iphone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "SharedCoreData.app"
-            BlueprintName = "SharedCoreData"
-            ReferencedContainer = "container:SharedCoreData_iOS.xcodeproj">
+            BlueprintName = "EasyGoal"
+            ReferencedContainer = "container:EasyGoal_iphone.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "SharedCoreData.app"
-            BlueprintName = "SharedCoreData"
-            ReferencedContainer = "container:SharedCoreData_iOS.xcodeproj">
+            BlueprintName = "EasyGoal"
+            ReferencedContainer = "container:EasyGoal_iphone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "SharedCoreData.app"
-            BlueprintName = "SharedCoreData"
-            ReferencedContainer = "container:SharedCoreData_iOS.xcodeproj">
+            BlueprintName = "EasyGoal"
+            ReferencedContainer = "container:EasyGoal_iphone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

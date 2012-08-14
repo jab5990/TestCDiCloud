@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SharedCoreData_OSX/SharedCoreData_OSX.xcodeproj">
+      location = "group:SharedCoreData_OSX/EasyGoal.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:SharedCoreData_iOS/SharedCoreData_iOS.xcodeproj">
+      location = "group:SharedCoreData_iOS/EasyGoal_iphone.xcodeproj">
    </FileRef>
 </Workspace>

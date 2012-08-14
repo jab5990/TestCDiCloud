@@ -103,6 +103,7 @@
 @property (weak) IBOutlet NSButton *removeButton;
 @property (strong) IBOutlet NSArrayController *tableArrayController;
 
+@property (nonatomic) CoreDataController *coreDataController;
 
 @end
 
@@ -164,9 +165,12 @@
                                                  name:NSTextDidEndEditingNotification
                                                object:nil];
 
-    _coreDataController = [[CoreDataController alloc] init];
-    [_coreDataController loadPersistentStores];
-    
+    //_coreDataController = [[CoreDataController alloc] init];
+    //[_coreDataController loadPersistentStores];
+
+    self.coreDataController = [[CoreDataController alloc] init];
+    [self.coreDataController loadPersistentStores];
+
     // start by sorting by last name
     [self.tableArrayController setSortDescriptors:
         [NSArray arrayWithObjects:
@@ -225,6 +229,7 @@
     {
         [[NSApplication sharedApplication] presentError:error];
     }
+    
 }
 
 - (BOOL)tableView:(NSTableView *)tableView shouldEditTableColumn:(NSTableColumn *)tableColumn row:(NSInteger)row

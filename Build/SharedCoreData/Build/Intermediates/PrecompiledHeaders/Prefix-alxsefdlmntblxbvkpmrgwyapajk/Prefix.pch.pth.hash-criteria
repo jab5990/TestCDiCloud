@@ -1,0 +1,26 @@
+Contents of /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_OSX/Prefix.pch
+4.0 (tags/Apple/clang-421.10.60) (based on LLVM 3.1svn)
+x86_64-apple-darwin12.0.0
+-x
+objective-c
+-arch
+x86_64
+-fmessage-length=0
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+-fasm-blocks
+-mmacosx-version-min=10.8
+-g
+-fvisibility=hidden
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug/include
+-I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug
+SDK_PRODUCT_BUILD_VERSION=12A264

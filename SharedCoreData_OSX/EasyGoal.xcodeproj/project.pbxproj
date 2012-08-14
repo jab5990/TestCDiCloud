@@ -11,7 +11,6 @@
 		01B30E851583130F00ECD677 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B30E811583130F00ECD677 /* Person.m */; };
 		01B30E861583130F00ECD677 /* StateLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B30E831583130F00ECD677 /* StateLocation.m */; };
 		01B30E8F1583131B00ECD677 /* CoreDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B30E881583131B00ECD677 /* CoreDataController.m */; };
-		5302C9CE14DC577200DB0D12 /* SharedCoreData.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = 5302C9CD14DC577200DB0D12 /* SharedCoreData.entitlements */; };
 		53B3207014D9E3920046A110 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B3206F14D9E3920046A110 /* AppDelegate.m */; };
 		53B9A99B14DC55B500140F3D /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 53B9A99514DC55B500140F3D /* Credits.rtf */; };
 		53B9A99C14DC55B500140F3D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 53B9A99714DC55B500140F3D /* InfoPlist.strings */; };
@@ -36,13 +35,13 @@
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
-		5302C9CD14DC577200DB0D12 /* SharedCoreData.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = SharedCoreData.entitlements; path = ../SharedCoreData.entitlements; sourceTree = "<group>"; };
 		53B3206E14D9E3920046A110 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
 		53B3206F14D9E3920046A110 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Classes/AppDelegate.m; sourceTree = "<group>"; };
 		53B9A99614DC55B500140F3D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		53B9A99814DC55B500140F3D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		53B9A99A14DC55B500140F3D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		77C82804067257F0000B614F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		8A647E6015DA94BB0029FA23 /* SharedCoreData.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SharedCoreData.entitlements; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* SharedCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SharedCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A55ED56015867F16005C5308 /* localStore.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = localStore.sqlite; path = ../Shared/localStore.sqlite; sourceTree = "<group>"; };
@@ -90,8 +89,8 @@
 		29B97314FDCFA39411CA2CEA /* SumItUp */ = {
 			isa = PBXGroup;
 			children = (
+				8A647E6015DA94BB0029FA23 /* SharedCoreData.entitlements */,
 				28916A3F1588067900A2DBBA /* ReadMe.txt */,
-				5302C9CD14DC577200DB0D12 /* SharedCoreData.entitlements */,
 				7756732906782D8800D1FEB8 /* Model and Model Class */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				018F0AE2156CB29A005A21C3 /* Shared */,
@@ -177,7 +176,7 @@
 			attributes = {
 				LastUpgradeCheck = 0450;
 			};
-			buildConfigurationList = 26FC0A880875C7B200E6366F /* Build configuration list for PBXProject "SharedCoreData_OSX" */;
+			buildConfigurationList = 26FC0A880875C7B200E6366F /* Build configuration list for PBXProject "EasyGoal" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
@@ -202,7 +201,6 @@
 				53B9A99B14DC55B500140F3D /* Credits.rtf in Resources */,
 				53B9A99C14DC55B500140F3D /* InfoPlist.strings in Resources */,
 				53B9A99D14DC55B500140F3D /* MainMenu.xib in Resources */,
-				5302C9CE14DC577200DB0D12 /* SharedCoreData.entitlements in Resources */,
 				A55ED56215867F16005C5308 /* localStore.sqlite in Resources */,
 				A55ED56315867F16005C5308 /* seedStore.sqlite in Resources */,
 			);
@@ -260,7 +258,8 @@
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_OBJCPP_ARC_ABI = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_ENTITLEMENTS = SharedCoreData.entitlements;
+				CODE_SIGN_IDENTITY = "Mac Developer: Jose Barroso (55VJSVPFZ6)";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -273,6 +272,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = SharedCoreData;
+				PROVISIONING_PROFILE = "1E9AD429-D715-4272-846D-6EA2F7065313";
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -284,7 +284,8 @@
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_OBJCPP_ARC_ABI = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_ENTITLEMENTS = SharedCoreData.entitlements;
+				CODE_SIGN_IDENTITY = "Mac Developer: Jose Barroso (55VJSVPFZ6)";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
@@ -295,6 +296,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = SharedCoreData;
+				PROVISIONING_PROFILE = "1E9AD429-D715-4272-846D-6EA2F7065313";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -335,7 +337,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		26FC0A880875C7B200E6366F /* Build configuration list for PBXProject "SharedCoreData_OSX" */ = {
+		26FC0A880875C7B200E6366F /* Build configuration list for PBXProject "EasyGoal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				26FC0A890875C7B200E6366F /* Debug */,

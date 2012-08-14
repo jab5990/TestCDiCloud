@@ -1,0 +1,514 @@
+TEasyGoal
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/Info.plist Info.plist
+cCompileXIB /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xib
+cCompileXIB /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib
+cCpResource ../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite
+cCpResource ../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqlite
+cDataModelCompile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/DataModel.mom /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel
+cProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.pth Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData normal i386
+cGenerateDSYMFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData
+cTouch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000501BF1020000000000000110
+t1344008450
+s272
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000501BFDBE0000000000305040
+t1344011710
+s3166272
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000005015FC64000000000000053B
+t1343618148
+s1339
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000501BFDBF0000000000228FF0
+t1344011711
+s2265072
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000501BFDD000000000003DCEF0
+t1344011728
+s4050672
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000501BFDD000000000000015F7
+t1344011728
+s5623
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000501BFDF30000000000000E8D
+t1344011763
+s3725
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000501BFDF60000000000AAE680
+t1344011766
+s11200128
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedCoreData.LinkFileList
+c00000000502A61A9000000000000079A
+t1344954793
+s1946
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.pth
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/DataModel.mom
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/Info.plist
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/PkgInfo
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/en.lproj/RootViewController.nib
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqlite
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m
+c000000004FD7DC380000000000008593
+t1339546680
+s34195
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel
+c000000004FD7DC380000000000000088
+t1339546680
+s136
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m
+c000000004FD7DC3800000000000013DA
+t1339546680
+s5082
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m
+c000000004FD7DC3800000000000013BA
+t1339546680
+s5050
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m
+c000000004FD7DC3800000000000013AA
+t1339546680
+s5034
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/localStore.sqlite
+c000000004FD642380000000000007000
+t1339441720
+s28672
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/seedStore.sqlite
+c000000004FD642380000000000063000
+t1339441720
+s405504
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m
+c000000004FD7DC380000000000001857
+t1339546680
+s6231
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m
+c000000004FD7DC3800000000000020C4
+t1339546680
+s8388
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m
+c000000004FD7DC380000000000001C05
+t1339546680
+s7173
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m
+c000000004FD7DC380000000000005062
+t1339546680
+s20578
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m
+c000000004FD7DC380000000000004D72
+t1339546680
+s19826
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Prefix.pch
+c000000004FD64238000000000000006F
+t1339441720
+s111
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib
+c000000004FD6423800000000000034D3
+t1339441720
+s13523
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xib
+c000000004FD642380000000000004453
+t1339441720
+s17491
+
+N/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m
+c000000004FD7DC3800000000000013B4
+t1339546680
+s5044
+
+NInfo.plist
+c00000000502A61A300000000000004AD
+t1344954787
+s1197
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies732f7c2999dab541^5d53902999dab541^---0#1#0#--18"Check dependencies36"DFCC396E-FF09-466A-A760-237264B5A657-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.286990
+e366647595.385724
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m52f3492b99dab541^01bf622b99dab541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m0000000000000000^4424"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.o Classes/AddViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AddViewController.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AddViewController.o36"93A935B3-2CB7-4AF6-BCF5-6399FA56D852-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.286976
+e366647595.411440
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.ma3c9492b99dab541^df53692b99dab541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m0000000000000000^4388"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.o Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/AppDelegate.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/AppDelegate.o36"A3443BEF-35EF-472F-9C28-536E7992DD5A-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.286860
+e366647595.441992
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m57cf492b99dab541^7635712b99dab541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m0000000000000000^4434"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.o ../Shared/CoreDataController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/CoreDataController.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/CoreDataController.o36"DD21B6CF-46F4-4875-8CCF-096FE6BB4CEF-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.480897
+e366647595.575984
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.mad4d7b2b99dab541^d273932b99dab541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m0000000000000000^4436"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.o Classes/DebugViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DebugViewController.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DebugViewController.o36"4F9B1646-10B3-4542-A79D-35CB92DD6A87-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.323295
+e366647595.520061
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m88f5522b99dab541^d922852b99dab541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m0000000000000000^4442"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.o Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/DetailViewController.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/DetailViewController.o36"7759A027-6AEA-4E50-AFA2-DC1B8A42C8E5-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.412735
+e366647595.460677
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.md8d8692b99dab541^b5ff752b99dab541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m0000000000000000^4362"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.o ../Shared/Person.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/Person.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/Person.o36"47D8BE75-C012-44DD-899C-F3E1440D614F-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.387088
+e366647595.564418
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m:210:6: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self.navigationController presentModalViewController:navController animated:YES];
+o     ^
+o/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:237:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m:409:6: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self dismissModalViewControllerAnimated:YES];
+o     ^
+o/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:240:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m9148632b99dab541^707d902b99dab541^-1365"/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m:210:6: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self.navigationController presentModalViewController:navController animated:YES];     ^/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:237:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m:409:6: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self dismissModalViewControllerAnimated:YES];     ^/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:240:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-366647595#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-366647595#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@206"file://localhost/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^236#0#236#0#12748#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@112"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m0000000000000000^209#5#209#5#10132#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-366647595#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-366647595#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@206"file://localhost/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^239#0#239#0#13034#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@112"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m0000000000000000^408#5#408#5#19040#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@112"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m0000000000000000^4430"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.o Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Classes/RootViewController.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/RootViewController.o36"DC1780AC-4627-4C3B-8316-6E1E978238FA-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.443328
+e366647595.479511
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m97ad712b99dab541^f8c47a2b99dab541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m0000000000000000^4386"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.o ../Shared/SharedMeta.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/SharedMeta.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedMeta.o36"8B733475-97F1-4A6D-B630-EE26A58B1607-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.462246
+e366647595.508146
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m7785762b99dab541^e929822b99dab541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m0000000000000000^4404"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.o ../Shared/StateLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/StateLocation.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/StateLocation.o36"ADBE740D-E362-4522-A87B-CADEACB3D93E-
+
+CCompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647595.287012
+e366647595.320618
+r1
+xCompileC
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.o
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m79cb492b99dab541^452c522b99dab541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m0000000000000000^4330"CompileC /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/main.m -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/main.o36"B4A0FA8A-837C-4E54-9251-2145260EC890-
+
+CCompileXIB /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib
+s366647593.610741
+e366647594.830898
+r1
+xCompileXIB
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib5c8d9c2999dab541^67b9d42a99dab541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib0000000000000000^1030"CompileXIB en.lproj/MainWindow.xib    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode45-DP4.app/Contents/Developer/usr/bin/..    /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/en.lproj/MainWindow.nib /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/MainWindow.xib --sdk /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"118ED112-1213-4742-AB07-16275D6267A3-
+
+CCompileXIB /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xib
+s366647593.610710
+e366647594.830069
+r1
+xCompileXIB
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xibd6a79c2999dab541^5280d42a99dab541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xib0000000000000000^1054"CompileXIB en.lproj/RootViewController.xib    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode45-DP4.app/Contents/Developer/usr/bin/..    /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/en.lproj/RootViewController.nib /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/en.lproj/RootViewController.xib --sdk /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"80F6A860-4706-4007-B7E2-40CD1DE6DA80-
+
+CCpResource ../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite
+s366647593.611053
+e366647593.615229
+r1
+xCpResource
+x../Shared/localStore.sqlite
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Copy /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite28999c2999dab541^527f9d2999dab541^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite000000000080d041^817"CpResource ../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/localStore.sqlite    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/localStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app36"6047A4B6-B6BE-4818-B3FA-A357CE57A586-
+
+CCpResource ../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqlite
+s366647593.611350
+e366647593.621975
+r1
+xCpResource
+x../Shared/seedStore.sqlite
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqlite
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Copy /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqliteb9aa9c2999dab541^a73b9f2999dab541^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqlite000000000080d041^814"CpResource ../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/seedStore.sqlite    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/seedStore.sqlite /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app36"3823444D-54EF-4B2D-8C1F-5A1F854D13B2-
+
+CDataModelCompile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/DataModel.mom /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel
+s366647594.871746
+e366647595.219335
+r1
+xDataModelCompile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/DataModel.mom
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel6347df2a99dab541^2027382b99dab541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel/0000000000000000^1097"DataModelCompile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/DataModel.mom ../Shared/DataModel.xcdatamodel    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -XD_MOMC_IOS_TARGET_VERSION=6.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/../Shared/DataModel.xcdatamodel /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/DataModel.mom36"6B4DC966-F7ED-4D52-831A-4A915BA36996-
+
+CGenerateDSYMFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData
+s366647595.794677
+e366647595.893765
+r1
+xGenerateDSYMFile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Generating /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYMca88cb2b99dab541^03edea2b99dab541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM000000000080d041^988"GenerateDSYMFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app.dSYM36"6612580C-9C24-4DF5-826E-9DFC8ED08BDA-
+
+CLd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData normal i386
+s366647595.582690
+e366647595.787607
+r1
+xLd
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreDatac442952b99dab541^bd8cd62b99dab541^---0#0#0#--1553"Ld /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData normal i386    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator -filelist /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/Objects-normal/i386/SharedCoreData.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework Foundation -framework CoreGraphics -framework CoreData -framework UIKit -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/SharedCoreData36"187BD283-AE62-483A-A3B7-D0D758600732-
+
+CProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/Info.plist Info.plist
+s366647593.571989
+e366647593.603000
+r1
+xProcessInfoPlistFile
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistbe88922999dab541^4e609a2999dab541^--1(21%IDEActivityLogMessage2@194"invalid character '_' in Bundle Identifier at column 22. This string must be a uniform type identifier (UTI) that contains only alphanumeric (A-Z,a-z,0-9), hyphen (-), and period (.) characters.102"Invalid character '_' in Bundle Identifier at column 22. This string must be a uniform type identifier366647593#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Info.plist Utility Warning--0#0#0#-19%DVTDocumentLocation4@94"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Info.plist0000000000000000^866"ProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/Info.plist Info.plist    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app/Info.plist36"4B39448F-D51A-4D38-B8F8-B0D7372D3BCE-
+
+CProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.pth Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366647594.873596
+e366647595.279634
+r1
+xProcessPCH
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.pth
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection21"Precompile Prefix.pch6cd0df2a99dab541^4a96472b99dab541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Prefix.pch0000000000000000^4078"ProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.pth Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/SharedCoreData-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/EasyGoal_iphone.build/Debug_Embedded-iphonesimulator/EasyGoal.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.dia -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS/Prefix.pch -o /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.pth -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Intermediates/PrecompiledHeaders/Prefix-gynvpmxvyaudxngfpbksqhgkperm/Prefix.pch.d36"2A35EBE7-0BDF-4D6D-80CB-17931C43CD7D-
+
+CProcessPCH /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Index/PrecompiledHeaders/Prefix-bgccfwrhbndltdgwfxhfivrbjvkp_ast/Prefix.pch.pth Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app
+s366647595.904276
+e366647595.918605
+r1
+xTouch
+x/Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Touch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app261ae82b99dab541^5a2aeb2b99dab541^---0#0#0#--580"Touch /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app    cd /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/SharedCoreData_iOS    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/barroso/Desktop/Dev/Learning/TestCDiCloud/Build/SharedCoreData/Build/Products/Debug_Embedded-iphonesimulator/SharedCoreData.app36"1535E2ED-33F0-4F5E-A0D0-9B4A3508904C-
+

@@ -21,7 +21,6 @@
 		28B35EC60FC5DCD100ED0C40 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28B35EC50FC5DCD100ED0C40 /* CoreGraphics.framework */; };
 		28B35EC80FC5DCD100ED0C40 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28B35EC70FC5DCD100ED0C40 /* Foundation.framework */; };
 		28B35FB70FC5E10C00ED0C40 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28B35EC90FC5DCD100ED0C40 /* UIKit.framework */; };
-		5302C9D014DC57B000DB0D12 /* SharedCoreData.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = 5302C9CF14DC57B000DB0D12 /* SharedCoreData.entitlements */; };
 		53CE978611C6E99200594C94 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 53CE978411C6E99200594C94 /* MainWindow.xib */; };
 		53E60EA414D8BF9B0076F772 /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53E60E9D14D8BF9B0076F772 /* AddViewController.m */; };
 		53E60EA514D8BF9B0076F772 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53E60E9F14D8BF9B0076F772 /* DetailViewController.m */; };
@@ -52,7 +51,6 @@
 		28B35EC90FC5DCD100ED0C40 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
-		5302C9CF14DC57B000DB0D12 /* SharedCoreData.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = SharedCoreData.entitlements; path = ../SharedCoreData.entitlements; sourceTree = "<group>"; };
 		53CE978511C6E99200594C94 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		53E60E9C14D8BF9B0076F772 /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AddViewController.h; path = Classes/AddViewController.h; sourceTree = "<group>"; };
 		53E60E9D14D8BF9B0076F772 /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AddViewController.m; path = Classes/AddViewController.m; sourceTree = "<group>"; };
@@ -142,7 +140,6 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
-				5302C9CF14DC57B000DB0D12 /* SharedCoreData.entitlements */,
 				28FCBE8F0DE69AD4007A15C7 /* Model and Model Class */,
 				286DDA180DE761A2005EF016 /* Classes */,
 				018F0AE4156CB2AE005A21C3 /* Shared */,
@@ -177,9 +174,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D6058900D05DD3D006BFB54 /* SharedCoreData */ = {
+		1D6058900D05DD3D006BFB54 /* EasyGoal */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SharedCoreData" */;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "EasyGoal" */;
 			buildPhases = (
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
@@ -189,7 +186,7 @@
 			);
 			dependencies = (
 			);
-			name = SharedCoreData;
+			name = EasyGoal;
 			productName = ChocolateCake;
 			productReference = 1D6058910D05DD3D006BFB54 /* SharedCoreData.app */;
 			productType = "com.apple.product-type.application";
@@ -202,7 +199,7 @@
 			attributes = {
 				LastUpgradeCheck = 0440;
 			};
-			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SharedCoreData_iOS" */;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "EasyGoal_iphone" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
@@ -217,7 +214,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D6058900D05DD3D006BFB54 /* SharedCoreData */,
+				1D6058900D05DD3D006BFB54 /* EasyGoal */,
 			);
 		};
 /* End PBXProject section */
@@ -229,7 +226,6 @@
 			files = (
 				53CE978611C6E99200594C94 /* MainWindow.xib in Resources */,
 				53E60EAE14D8BFA80076F772 /* RootViewController.xib in Resources */,
-				5302C9D014DC57B000DB0D12 /* SharedCoreData.entitlements in Resources */,
 				013773A71584221000A0EDC8 /* localStore.sqlite in Resources */,
 				01AB7EB7158484B90033937A /* seedStore.sqlite in Resources */,
 			);
@@ -289,7 +285,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = SharedCoreData;
 				PROVISIONING_PROFILE = "CF73A9C1-19DB-4F15-81C6-81184395C300";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -305,7 +301,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = SharedCoreData;
 				PROVISIONING_PROFILE = "CF73A9C1-19DB-4F15-81C6-81184395C300";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -349,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SharedCoreData" */ = {
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "EasyGoal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug_Embedded */,
@@ -358,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SharedCoreData_iOS" */ = {
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "EasyGoal_iphone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug_Embedded */,
